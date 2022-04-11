@@ -1,19 +1,16 @@
 # blockchain-starter
 You can use this as the starting point of the learning of blockchain and crypto currency implementation.
-
 ## Prerequisites
     1. Install node
-
 ## Steps to run :
-  ### Step 1
+  #### Step 1
     Clone this repo
-  ### Step 2 
+  #### Step 2 
     Go to the location from command prompt (cd <path>)
-  ### step 3 
+  #### step 3 
     run 'npm install'
-  ### step 4 
+  #### step 4 
     run 'node FirstCryptoCurrency.js' 
-  
 ## Terms used in the sample
   ### 1. Blockchain 
       Blockchain is an open, distributed ledger that can record transactions between two parties 
@@ -33,4 +30,14 @@ You can use this as the starting point of the learning of blockchain and crypto 
       The fixed bit length can vary (like 32-bit or 64-bit or 128-bit or 256-bit) depending on the hash function which is being used. 
       The fixed-length output is called a hash. 
       This hash is also the cryptographic byproduct of a hash algorithm. 
-  
+  ### 6. SHA-256
+      SHA-256, or Secure Hash Algorithm 256, is a hashing algorithm used to convert text of any length into a fixed-size string of 256 bits (32 bytes).
+      SHA-256 is also used in popular encryption protocols such as SSL,TLS, SSH and open source operating systems such as Unix/Linux. 
+      SHA-256 is a popular hashing algorithm used in Bitcoin encryption, first introduced when the network launched in 2009. 
+      Since then, SHA-256 has been adopted by a number of different blockchain projects.
+  ### 7. Blockchain Nonce
+      Nonce, short for “number used once”, is a random number that can only be used one time. 
+      Nonces are generated for a specific use, most often to modify the result of a function in a cryptographic communication. 
+      Discovering the next block is done by finding the right nonce, 
+      that when combined with the previous block hash, provides a lower hash value than the target.  
+      This specific nonce that satisfies the mining requirement of the next block is called the “Golden Nonce”.
