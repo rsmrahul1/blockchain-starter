@@ -41,3 +41,6 @@ You can use this as the starting point of the learning of blockchain and crypto 
       Discovering the next block is done by finding the right nonce, 
       that when combined with the previous block hash, provides a lower hash value than the target.  
       This specific nonce that satisfies the mining requirement of the next block is called the “Golden Nonce”.
+  ### 8. Genesis Block
+      A Genesis Block is the name given to the first block a cryptocurrency, such as Bitcoin, ever mined. 
+      A blockchain consists of a series of so-called blocks that are used to store information related to transactions that occur on a blockchain network.
