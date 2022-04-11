@@ -8,11 +8,11 @@ You can use this as the starting point of the learning of blockchain and crypto 
 ## Steps to run :
 
   ### Step 1
-    Clone this repo <br />
+    Clone this repo
   ### Step 2 
     Go to the location from command prompt (cd <path>)
   ### step 3 
-    run 'npm install'<br />
+    run 'npm install'
   ### step 4 
     run 'node FirstCryptoCurrency.js' 
   
