@@ -44,3 +44,7 @@ You can use this as the starting point of the learning of blockchain and crypto 
   ### 8. Genesis Block
       A Genesis Block is the name given to the first block a cryptocurrency, such as Bitcoin, ever mined. 
       A blockchain consists of a series of so-called blocks that are used to store information related to transactions that occur on a blockchain network.
+  ### 9. Mining
+      Mining is the process that Bitcoin and several other cryptocurrencies use to mint new coins and verify and secure their blockchains. 
+      The competitive process that verifies and adds new transactions to the blockchain for a cryptocurrency that uses the proof-of-work (PoW) method. 
+      The miner that wins the competition is rewarded with some amount of the currency and/or transaction fees.
