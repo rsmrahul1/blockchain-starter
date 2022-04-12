@@ -11,7 +11,7 @@ You can use this as the starting point of the learning of blockchain and crypto 
     run 'npm install'
   #### step 4 
     run 'node FirstCryptoCurrency.js' 
-## Terms used in the sample
+## Explanation of terms used in BlockChain
   ### 1. Blockchain 
       Blockchain is an open, distributed ledger that can record transactions between two parties 
       efficiently and in a verifiable and permanent way.
