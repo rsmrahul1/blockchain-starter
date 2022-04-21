@@ -1,4 +1,4 @@
-# blockchain-starter
+# BadgeCoin
 You can use this as the starting point of the learning of blockchain and crypto currency implementation.
 ## Prerequisites
     1. Install node
